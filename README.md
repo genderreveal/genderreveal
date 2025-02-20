@@ -34,3 +34,7 @@ Show your love by starring ⭐ this repository and sharing with expecting parent
 <!-- For direct HTML embeds -->
 <a href="https://www.genderreveal.live" rel="dofollow">Gender Reveal Live</a>
 ```
+
+Blogs mentioning GenderReveal.Live:
+- <a href="https://lite.evernote.com/note/e75935ab-fb13-ad21-a5fa-3de86d4781b4">5 Creative Gender Reveal Party Ideas to Celebrate Your Baby’s Big Moment</a>
+- <a href="https://open.substack.com/pub/jimmyoliverus/p/5-creative-gender-reveal-party-ideas">Celebrate Life's Milestones with GenderReveal.live: A modern Twist on Sharing Joy</a>
